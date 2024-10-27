@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("electricity-web-scraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be57458072ff2000b77a4da3da414fba813f44b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd704204b97feee9043df88622a38d19178701e")]
 [assembly: System.Reflection.AssemblyProductAttribute("electricity-web-scraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("electricity-web-scraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
